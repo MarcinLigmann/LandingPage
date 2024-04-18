@@ -7,7 +7,7 @@ Fully responsive application adapted to devices:
 - mobile (up to 744px)
 - tablets (from 744px to 1260px)
 - larger displays (from 1260px)
-- 
+
 images in webp format
 
 Launching the application:
